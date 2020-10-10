@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Learning to code currently**
+
+_Python_
+
+_C#_
+
+_SQL_
+
+I am **HOPING** to compete in _Ludum Dare_ next year!
+
