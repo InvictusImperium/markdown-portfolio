@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Tim the Enchanter] (https://tappingtim.files.wordpress.com/2019/09/cropped-tappingtim.png?w=200)
